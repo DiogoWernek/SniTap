@@ -158,7 +158,6 @@ section.hero {
 }
 
 @keyframes slideUp {
-
   0%,
   22% {
     transform: translateY(0);

@@ -1,12 +1,14 @@
 .banner {
   max-width: 100%;
-  overflow: hidden;
   padding-block: 2.5rem;
+  
+  overflow: hidden;
 
   .scroller {
     width: 100%;
-    overflow: hidden;
     padding-block: 1rem;
+    
+    overflow: hidden;
   }
 
   .rolling {
@@ -17,14 +19,14 @@
   }
 
   .bg-gradient-animate {
+    background-size: 400%;
+    background-position: 0 50%;
+    animation: bg-gradient 20s ease infinite;
     background: linear-gradient(
       45deg,
       var(--snitap-sky-light),
       var(--snitap-joy-light)
     );
-    background-size: 400%;
-    background-position: 0 50%;
-    animation: bg-gradient 20s ease infinite;
   }
 }
 
