@@ -1,10 +1,17 @@
 <h1>SniTap</h1>
 
-This automation bot was developed to scrape data from a website that provides quotations for various agricultural crops in Brazil. The website used is. This scrapper bot is an updated version of a previous project, featuring more validations, security, and reliability in the collected information. It is capable of retrieving data such as:
+Snitap is a web development project created as part of a Rocketseat activity. It focuses on creating engaging and dynamic animations using HTML and CSS. The project demonstrates the use of keyframes, transitions, and other CSS properties to bring elements to life, providing a visually appealing and interactive experience. This project highlights my skills in front-end development, particularly in crafting smooth animations and responsive designs.
 
-- **Crop**: Name of the agricultural crop.
-- **Crop type**: Category or classification of the crop.
-- **Update month/year**: Reference period for the quotation.
-- **National value**: Current price of the crop in the national market.
+**Technologies Used:**
 
-<img src="" width="50%">
+- *HTML*
+- *CSS (Animations, Keyframes, Transitions)*
+
+**Features:**
+
+- *Smooth and creative animations*
+- *Responsive design*
+
+**Clean and maintainable code**
+
+<img src="https://github.com/user-attachments/assets/513c3e1e-6dd9-49fa-b865-91a919437d38" width="50%">
