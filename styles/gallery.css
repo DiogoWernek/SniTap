@@ -113,3 +113,13 @@ section.gallery {
     transform: translateY(100%);
   }
 }
+
+@media (width <= 70rem) {
+  section.gallery {
+
+    & .content {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
